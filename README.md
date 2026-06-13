@@ -1,4 +1,4 @@
-```md
+md
 <h1 align="center">Hey, I'm Bridleen P 👋</h1>
 
 <p align="center">
@@ -176,4 +176,4 @@ Worked on developing and improving features that help students:
 <p align="center">
   <i>"Turning ideas into products through code, creativity, and continuous learning."</i>
 </p>
-```
+
