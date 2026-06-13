@@ -1,109 +1,155 @@
 ```md
-# 👋 Hey, I'm Bridleen P
+<h1 align="center">Hey, I'm Bridleen P 👋</h1>
 
-### 🚀 Flutter Developer | MERN Stack Developer | Unity Developer | Pre-Final Year ECE Student
+<p align="center">
+  <b>Flutter Developer · MERN Stack Developer · Unity Developer · Pre-Final Year ECE @ Sri Eshwar College of Engineering</b>
+</p>
 
-<p align="left">
-Building Mobile Apps, Full-Stack Solutions, and Interactive Digital Experiences.
+<p align="center">
+  <a href="https://www.linkedin.com/in/bridleen-p-a6ab68304/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bridleen%20P-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:perricpp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-perricpp%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bridlen08">
+    <img src="https://img.shields.io/badge/GitHub-Bridlen08-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-🎓 Pre-Final Year Electronics and Communication Engineering Student
+I'm a Pre-Final Year Electronics and Communication Engineering student who enjoys building real-world software products rather than just academic projects.
 
-📱 Passionate Flutter Developer
+My primary focus is on **Flutter Mobile Development**, **MERN Stack Development**, **Game Development using Unity**, and **Backend Development with Django**.
 
-🌐 Full-Stack Developer (MERN)
+I enjoy turning ideas into complete products—from UI design to deployment.
 
-🎮 Unity Game Developer
-
-🐍 Django Backend Developer
-
-💡 I enjoy building products that solve real-world problems and create meaningful user experiences.
-
-🤝 Open to internships, collaborations, hackathons, and innovative projects.
+- 📱 Building cross-platform mobile applications with Flutter & Dart
+- 🌐 Developing full-stack web applications using MERN Stack
+- 🎮 Creating interactive games and simulations with Unity
+- 🐍 Building scalable backend systems using Django
+- 🤝 Love collaborating with developers and working on innovative ideas
+- 🚀 Open to Software Development, Flutter, and Full-Stack Internship Opportunities
 
 ---
 
 ## 💼 Internship Experience
 
-### Campus Collab Hub – Flutter Development Intern
+### 🤝 Campus Collab Hub — Flutter Development Intern
 
-Worked on **Campus Collab Hub**, a platform designed to help students:
+> A platform that helps students connect, form project teams, discover opportunities, and collaborate on innovative projects.
 
-- Form project teams
-- Connect with like-minded peers
-- Discover collaboration opportunities
+Worked on developing and improving features that help students:
+
+- Find project teammates
 - Build professional networks
+- Collaborate on projects
+- Discover campus opportunities
 
-#### Skills Gained
+**Skills Gained:**
 
-- Flutter Development
-- Dart Programming
-- State Management
-- UI/UX Design
-- Application Architecture
-- Team Collaboration
-- Product Development
+`Flutter` `Dart` `State Management` `UI/UX Design` `Firebase` `Team Collaboration` `Application Architecture`
 
 ---
 
-## 🚀 Tech Stack
-
-### Mobile Development
-- Flutter
-- Dart
-- Firebase
-
-### Full Stack Development
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-### Backend Development
-- Django
-- REST APIs
-- Python
-
-### Game Development
-- Unity
-- C#
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Postman
-
----
-
-## 📌 Projects
+## 🚀 Projects
 
 ### 📱 Online Auction System
-A complete auction platform with authentication, bidding, dashboards, and auction management.
+
+> A full-stack auction platform with authentication, bidding system, dashboards, and auction management features.
+
+`Flutter` `Django` `MySQL`
+
+---
 
 ### 🌍 Tamil Nadu Tourist Guide
-A tourism platform helping users explore destinations, attractions, and travel information.
+
+> Tourism platform helping users discover tourist attractions, navigation support, and travel information.
+
+`Flutter` `Firebase` `Google Maps API`
+
+---
 
 ### 🏫 School Management System
-A management solution connecting students, parents, and faculty.
+
+> Complete management platform connecting students, parents, teachers, and administration.
+
+`Django` `MySQL` `HTML` `CSS`
+
+---
 
 ### 🎭 Cultural Fest Management System
-A platform for event registrations, scheduling, and participant management.
+
+> Event registration and management platform for organizing cultural events efficiently.
+
+`Django` `Python` `MySQL`
+
+---
 
 ### 💰 Expense Tracker
-A finance management application for tracking daily expenses.
+
+> Personal finance application for tracking expenses and monitoring spending habits.
+
+`Flutter` `Firebase`
+
+---
 
 ### 🤝 Campus Collab Hub
-A student collaboration platform that helps users connect, form teams, and build projects together.
+
+> Student collaboration platform designed to help users build teams and work together on projects.
+
+`Flutter` `Firebase`
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bridlen08&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridlen08&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
@@ -112,32 +158,22 @@ A student collaboration platform that helps users connect, form teams, and build
 - Advanced Flutter Architecture
 - Clean Architecture
 - System Design
-- Scalable Backend Development
 - Cloud Technologies
+- Scalable Backend Development
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bridlen08&show_icons=true&theme=tokyonight)
+📧 **Email:** perricpp@gmail.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bridlen08&layout=compact&theme=tokyonight)
+💼 **LinkedIn:** https://www.linkedin.com/in/bridleen-p-a6ab68304/
 
----
-
-## 📫 Connect With Me
-
-📧 Email: perricpp@gmail.com
-
-💻 GitHub: https://github.com/Bridlen08
-
-🔗 LinkedIn: https://www.linkedin.com/in/bridleen-p-a6ab68304/
+🐙 **GitHub:** https://github.com/Bridlen08
 
 ---
 
-## ⚡ Motto
-
-"Turning ideas into products through code, creativity, and continuous learning."
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <i>"Turning ideas into products through code, creativity, and continuous learning."</i>
+</p>
 ```
